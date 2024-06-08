@@ -19,7 +19,7 @@ This repository contains a robust authentication module designed for user regist
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/authentication-module.git
+    git clone https://github.com/NAMBIRAJA-M/SecureAuthSystem.git
     cd authentication-module
     ```
 
